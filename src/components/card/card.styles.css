@@ -1,0 +1,11 @@
+.card-container{
+    background: #e8e8e8;
+    border: 1px dashed #cacaca;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform linear 0.1s;
+}
+
+.card-container:hover{
+    transform: scale(1.05);
+}
